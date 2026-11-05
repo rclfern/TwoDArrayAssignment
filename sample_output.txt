@@ -1,0 +1,18 @@
+Enter number of rows: Enter number of columns: 
+Enter the array elements:
+Element [1][1]: Element [1][2]: Element [1][3]: Element [2][1]: Element [2][2]: Element [2][3]: 
+2D ARRAY WITH ROW AND COLUMN SUMS:
++----------+----------+----------+----------+----------+
+|      Row |    Col 1 |    Col 2 |    Col 3 |  Row Sum |
++----------+----------+----------+----------+----------+
+|    Row 1 |        1 |        2 |        3 |        6 |
++----------+----------+----------+----------+----------+
+|    Row 2 |        4 |        2 |        1 |        7 |
++----------+----------+----------+----------+----------+
+|  Col Sum |        5 |        4 |        4 |       13 |
++----------+----------+----------+----------+----------+
+GRAND TOTAL: 13
+
+DUPLICATE CHECKER:
+Duplicate found: 1
+Duplicate found: 2
