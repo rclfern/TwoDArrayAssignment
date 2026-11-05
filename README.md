@@ -32,7 +32,7 @@ The program allows users to enter the size and elements of a 2D array. It then c
 | `ArrayResult.java` | Displays the array, row sums, column sums, and grand total. |
 | `DuplicateChecker.java` | Checks the array for duplicate values. |
 
-## 💻 How to Run
+## How to Run
 
 1. Install the Java Development Kit (JDK).
 2. Open the project folder in Visual Studio Code.
